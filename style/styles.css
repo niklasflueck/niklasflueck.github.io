@@ -2,5 +2,5 @@
     html{background-color: black;color: white;font-family: 'Montserrat', sans-serif;}
     p{font-size: 25px; padding: 25px;}
     img{border-radius: 25px; width: 150px;}
-    .btn-youtube{background-color: red; color: whitesmoke; border: none; border-radius: 100px; padding: 25px}
+    .btn-youtube{background-color: red; color: whitesmoke; border: none; border-radius: 100px; padding: 25px; font-size: larger;}
     h1{font-size:50px; text-align: center;font-family: 'Bangers', cursive}
